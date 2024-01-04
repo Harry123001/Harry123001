@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harry123001
 - 👀 I’m interested in 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning python and algorithms.
 - 📫 How to reach me ...
 
 <!---
