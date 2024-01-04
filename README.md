@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Harry123001
-- 👀 I’m interested in 
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning python and algorithms.
 - 📫 How to reach me ...
 
