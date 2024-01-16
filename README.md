@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Harry123001
-- 👀 I’m interested in coding
+- 👀 I’m interested in coding. 
 - 🌱 I’m currently learning python and practicing algorithms.
 - 📫 How to reach me ... gmail- singhharkirat9090@gmail.com
 
